@@ -6,7 +6,7 @@
 
 ## Biografia
 
-Estou começando minha carreira como desenvolvedor. <p>
+Conhecimento e Sabedoria para me tornar melhor amanhã do que estou sendo hoje. <p>
 Cursos Relacionados: </p>
 Profissionalizante Desenvolvedor Full Stack Python - Escola EBAC <p></p>
 Profissionalizante Desenvolvedor Android Mobile & Back-end Python - Escola EBAC <p></p>
